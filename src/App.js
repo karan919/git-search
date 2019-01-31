@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React, { Component } from "react"; //comment added
 import Header from "./shared/component/Header";
 
 import "bootstrap/dist/css/bootstrap.min.css";
